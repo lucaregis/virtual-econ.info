@@ -4,6 +4,13 @@
 
 This page has links to long-form talks from various speakers, all hosted virtually. 
 
+### LTI@UniTO Webinars in Finance Series - Collegio Carlo Alberto
+
+LTI@UniTO(www.carloalberto.org/lti) is a research center based in Torino, Italy, which focuses on Long-Term Investing.
+We organize a webinar series, which will take place on Wednesdays, 3 pm CET, starting May 27th. 
+For program and sign up please visit: 
+https://www.carloalberto.org/events/category/ltiunito-webinar-series-in-finance/?tribe-bar-date=2020-03-01
+
 ### Seminar in Applied Microeconomics - Virtual Assembly and Discussion (SAMVAAD)
 
 SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting 1 May 2020, the online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM IST. Please [sign up](https://forms.gle/JsXhRoNskxuKQuk59) to receive webinar links and visit [SAMVAAD's website](https://aadityadar.github.io/samvaad/) for more details.
